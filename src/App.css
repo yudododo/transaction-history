@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+/* 上面是原本的 */
+.container{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  width: 900px;
+  margin: auto;
+  padding: 30px;
+}
